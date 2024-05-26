@@ -32,8 +32,6 @@
 But sometimes I can relax playing games on Steam. 🎮
 
 
-
-
 ## 🛠️ My skills 
 
 ![C](https://img.shields.io/badge/-C-4B0082?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -54,6 +52,12 @@ But sometimes I can relax playing games on Steam. 🎮
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilfae&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilfae&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilfae&theme=dark)
+
+
+
+
+
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
