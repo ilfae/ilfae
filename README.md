@@ -48,7 +48,7 @@ But sometimes I can relax playing games on Steam. 🎮
 
 
 
-## 📈 GitHub Статистика
+## 📈 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilfae&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilfae&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilfae&theme=dark)
