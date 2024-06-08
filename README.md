@@ -1,3 +1,9 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/zoto-ff/zoto-ff/blob/main/russia.jpg?raw=true');]{x0000}$}
+
+
+
+
 <div align="center">
   <div align="center">
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
@@ -62,5 +68,4 @@ But sometimes I can relax playing games on Steam. 🎮
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/zoto-ff/zoto-ff/blob/main/russia.jpg?raw=true');]{x0000}$}
+
