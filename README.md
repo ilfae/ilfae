@@ -1,4 +1,8 @@
-
+<div style="position: relative;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('https://github.com/zoto-ff/zoto-ff/blob/main/russia.jpg?raw=true'); background-size: cover; opacity: 0.5; z-index: -1;"></div>
+  
+  <div style="position: relative; z-index: 1;"> 
+    
 <div align="center">
   <div align="center">
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
