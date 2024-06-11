@@ -19,7 +19,7 @@
 
 
 
-## 👋 About me
+## 👋 About me <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50"></h1>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 👨‍💻 I am a 23-year-old enthusiastic student of the Computer Science Faculty of SamSTU. 
 
