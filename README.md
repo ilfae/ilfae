@@ -2,7 +2,7 @@
     
 <div align="center">
   <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/ilfae/ilfae/main/github-contribution-grid-snake.svg"
        alt="snake" />
   </div>
 </div>
@@ -55,7 +55,6 @@ But sometimes I can relax playing games on Steam. 🎮
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilfae&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilfae&theme=dark)
 
-<img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50"></h1> 
 
 
 
