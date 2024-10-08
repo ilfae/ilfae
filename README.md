@@ -19,7 +19,7 @@
 
 ## 👋 About me 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-👨‍💻 I am a 23-year-old enthusiastic student of the Computer Science Faculty of SamSTU. 
+👨‍💻 I am a 23-year enthusiastic student of the Faculty of Computer Science.
 
 ✨ I am attracted by:
 * 🎥 Video editing
@@ -28,8 +28,6 @@
 * 💻 Programming
 
 🌱 In my free time I try to develop my skills.
-
-But sometimes I can relax playing games on Steam. 🎮
 
 
 ## 🛠️ My skills 
