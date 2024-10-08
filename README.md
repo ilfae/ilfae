@@ -11,10 +11,8 @@
 
 <div>
   <a href="https://t.me/kittenwof"><img src="https://img.shields.io/badge/-GAFur-4B0082?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:ofkaworld@gmail.com"><img src="https://img.shields.io/badge/-GAFur-4B0082?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCCdYS6QKx2UdZLqi-w4kAtg"><img src="https://img.shields.io/badge/-GAFur-4B0082?style=flat&logo=youtube&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@gafurus"><img src="https://img.shields.io/badge/-GAFur-4B0082?style=flat&logo=tiktok&logoColor=white"/></a>
-  <a href="https://steamcommunity.com/profiles/76561199229989698/"><img src="https://img.shields.io/badge/-GAFur-4B0082?style=flat&logo=steam&logoColor=white"/></a>
 </div> 
 
 
