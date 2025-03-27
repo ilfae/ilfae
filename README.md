@@ -19,7 +19,7 @@
 
 ## 👋 About me 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-👨‍💻 I am a 23-year enthusiastic student of the Faculty of Computer Science.
+👨‍💻 I am a 24-year enthusiastic student of the Faculty of Computer Science.
 
 ✨ I am attracted by:
 * 🎥 Video editing
